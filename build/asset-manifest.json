@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/uxe-quality_test-task/build/static/css/main.e6c13ad2.css",
-    "main.js": "/uxe-quality_test-task/build/static/js/main.32720de6.js",
-    "static/media/smtForSale.webp": "/uxe-quality_test-task/build/static/media/smtForSale.ad4272ed514b19eaa30a.webp",
-    "static/media/forSale.webp": "/uxe-quality_test-task/build/static/media/forSale.cb032fc038ae92db8586.webp",
-    "index.html": "/uxe-quality_test-task/build/index.html",
-    "main.e6c13ad2.css.map": "/uxe-quality_test-task/build/static/css/main.e6c13ad2.css.map",
-    "main.32720de6.js.map": "/uxe-quality_test-task/build/static/js/main.32720de6.js.map"
+    "main.css": "/luxe-quality_test-task/build/static/css/main.e6c13ad2.css",
+    "main.js": "/luxe-quality_test-task/build/static/js/main.cf83ed48.js",
+    "static/media/smtForSale.webp": "/luxe-quality_test-task/build/static/media/smtForSale.ad4272ed514b19eaa30a.webp",
+    "static/media/forSale.webp": "/luxe-quality_test-task/build/static/media/forSale.cb032fc038ae92db8586.webp",
+    "index.html": "/luxe-quality_test-task/build/index.html",
+    "main.e6c13ad2.css.map": "/luxe-quality_test-task/build/static/css/main.e6c13ad2.css.map",
+    "main.cf83ed48.js.map": "/luxe-quality_test-task/build/static/js/main.cf83ed48.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.32720de6.js"
+    "static/js/main.cf83ed48.js"
   ]
 }
