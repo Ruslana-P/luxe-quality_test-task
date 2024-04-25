@@ -2,7 +2,6 @@
   "name": "TestTask",
   "version": "0.1.0",
   "private": true,
-  "homepage": "luxe-quality_test-task/build/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.3",
     "@types/node": "^16.18.68",
